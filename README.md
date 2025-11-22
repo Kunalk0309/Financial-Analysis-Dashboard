@@ -45,3 +45,6 @@ This project is about designing a visually engaging and easy-to-understand dashb
 • Analyzed customer segments contributing most to revenue
 
 • Visualized underperforming regions for strategy realignment
+
+
+<img width="1272" height="702" alt="Screenshot 2025-11-22 122646" src="https://github.com/user-attachments/assets/9a26a1bb-0726-4b34-b75d-0fad40612497" />
